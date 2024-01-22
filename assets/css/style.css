@@ -19,7 +19,7 @@ body {
 }
 /* Header */
 header {
-    background-color: red;
+    background-color: lightyellow;
 }
 h1 {
     font-family: 'Oswald', sans-serif;
@@ -27,7 +27,7 @@ h1 {
 
 /* Main content */
 main {
-    background-color: lightyellow;
+    background-color: green;
     /* Make main element take up any surplus space to push footer down */ 
     flex: 1 0 auto;
 }
