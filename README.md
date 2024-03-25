@@ -108,7 +108,7 @@ COMPLETE
 
     - The navigation bar is identical in all pages and contains links to all pages to facilitate navigation across the site. It also has a hover effect that changes color to provide feedback to the customer for a better user experience.
 
-![Header image](!assets/images/header.png)
+![Header image](assets/images/header.png)
 * **Footer**
 ![Footer image](assets/readme-files/footer.png)
 
