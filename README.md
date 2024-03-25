@@ -88,18 +88,8 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
 
 COMPLETE
-### Wireframes 
 
-I used balsamiq to create my wireframes as this gives the template of the UI. This also shows where all elements will be placed within the screen.
-[Balsamiq](https://balsamiq.com/) has been used to showcase the appearance of the site and display the placement of the different elements within the pages.
-
-Page | Desktop Version | Mobile Version
---- | --- | ---
-Index | ![Desktop index wireframe image](assets/wireframes/desktop-index.png) | ![Mobile index wireframe image](assets/wireframes/mobile-index.png)
-Treatments | ![Desktop treatments wireframe image](assets/wireframes/desktop-treatments.png) | ![Mobile treatments wireframe image](assets/wireframes/mobile-treatments.png)
-Book Now | ![Desktop book now wireframe image](assets/wireframes/desktop-book-now.png) | ![Mobile book now wireframe image](assets/wireframes/mobile-book-now.png)
-
-[Back to top ⇧](#pura-vida-spa)
+[Back to top ⇧](#first-class)
 
 
 ## Features
@@ -111,13 +101,14 @@ Book Now | ![Desktop book now wireframe image](assets/wireframes/desktop-book-no
 * Similar color scheme and design throughout all pages to effectively structure, categorise and present the information to the customers.
 
 * **Header**
-![Header image](assets/readme-files/header.png)
-    
+      
     - The header contains the business logo and fully responsive navigation bar positioned across the top of the screen.
 
     - The business logo functions as a link to the landing page.
 
     - The navigation bar is identical in all pages and contains links to all pages to facilitate navigation across the site. It also has a hover effect that changes color to provide feedback to the customer for a better user experience.
+
+      assets/images/header.png
 
 * **Footer**
 ![Footer image](assets/readme-files/footer.png)
