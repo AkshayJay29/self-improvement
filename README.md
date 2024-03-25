@@ -121,12 +121,12 @@ COMPLETE IMAGES
 
 
 * **Main Image**
-![Main image](assets/readme-files/main-image.png)
+![Main image](assets/images/main image.png)
 
     - The main image is designed to attract the customer's attention and represents the typical admirable characteristics of our clients.
 
 * **Why Join Us Section**r
-![About us section image](assets/readme-files/about-us.png)
+![Why join us section image](assets/readme-files/about-us.png)
 
     - Contains text with information about why the business is beneficial to customers as well as an eye-catching image.
 
