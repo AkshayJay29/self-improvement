@@ -1,5 +1,6 @@
 # First Class
 
+![First Class mockup images](assets/readme-files/mockup-image.png)
 
 
 First Class is a fictional community of people looking to get in better-shape and become a first-class individual. It is situated in the centre of London- an area that is easily accessible from many areas. The two locations of St.James Park and Hilton Hotel allows you to not just enjoy the services and training, but to also enjoy the scenery, as the locations are very developed, and filled with high quality equipment.  
