@@ -137,7 +137,7 @@ COMPLETE
 
 
 * **Our Clients**
-![Our Clients image](assets/images/our-clientrs.png)
+![Our Clients image](assets/images/our-clients.png)
 
 -. The Our Clients page contains a range of images of successful clients in the first class community.
 
@@ -147,7 +147,7 @@ COMPLETE
 
 * **Sign Up Form**
   
-![Book now form image](assets/readme-files/book-now-form.png)
+![Book now form image](assets/images/sign up.png)
 
     - The form allows the customer to sign up to the desired programme directly from the business' website.    
 
@@ -156,12 +156,7 @@ COMPLETE
 * **Background video**
   - Background video (of a client training) added into the sign up page to add extra motivation to convince the user to join the programme as they can see others working hard and pushing themselves in the programme.
 
-### 404 Error Page
-![404 error page image](assets/readme-files/404-error-page.png)
-
-*  This single page is being shown in case the customer enters an incorrect address into the address bar. It contains a link to the landing page.
-
-[Back to top ⇧](#pura-vida-spa)
+[Back to top ⇧](#first-class)
 
 
 ## Technologies Used
