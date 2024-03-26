@@ -17,7 +17,6 @@ Visit the deployed website [here] https://akshayjay29.github.io/self-improvement
     2. [User Stories](#user-stories)
     3. [Color Scheme](#color-scheme)
     4. [Typography](#typography)
-    5. [Wireframes](#wireframes)
 2. [Features](#features)
     1. [General](#general)
     2. [Landing Page](#landing-page)
@@ -114,10 +113,6 @@ COMPLETE
 
     - The footer includes a title of Follow Us to improve the user experience and make it more easy to understand for the user that the logos are links to the business' social media channels. 
 
-### Landing Page
-
-
-COMPLETE IMAGES
 
 
 * **Main Image**
@@ -296,7 +291,6 @@ COMPLETE IMAGES
         No appearance, responsiveness nor functionality issues.
 
 * Common Elements Testing
-
     - All Pages
         
         - **Header**
@@ -313,21 +307,20 @@ COMPLETE IMAGES
         
 - Clicking on the social media links will open the specific website on a new tab.
 
- - Treatments Page
 
-        - Hovering on the book button link on each treatment section will trigger hover effect, highlighting the button for the customer.
+ - Our Clients Page
+ - 
+        - Range of pictures of clients in the gym, all from different ethnic backgrounds which will help any customer feel like they are already welcomed into the programme.  
 
         - Clicking on the book button link on each treatment section will bring the customer to the book now page.
 
-    - Book Now Page
+    - Sign Up Page
 
-        - When filling out the book now form, the customer is required to complete all fields before submitting.
+        - When filling out the sign up form, the customer is required to complete all fields before submitting. 
         
-        - Hovering over the book button will trigger the hover effect, highlighting the button for the customer.
-
-        - Clicking and dragging on the map in the find us section will move the area shown on the map. 
-        
-        - Clicking the plus and minus buttons changes the zoom of the map.
+        - Controls given to customer to help them control the background video in the sign up page
+     
+        - The hover effect on each section of the sign up form will help the customer navigate their way through the form. 
 
     - 404 Error Page
 
@@ -339,17 +332,6 @@ COMPLETE IMAGES
 
 [Back to top ⇧](#first-class)
 
-
-## Finished Product
-
-Page | Desktop version | Mobile version
---- | --- | ---
-Index | ![Desktop index page image](assets/readme-files/desktop-index.png) | ![Mobile index page image](assets/readme-files/mobile-index.png)
-Treatments | ![Desktop treatments page image](assets/readme-files/desktop-treatments.png) | ![Mobile treatments page image](assets/readme-files/mobile-treatments.png)
-Book Now | ![Desktop book now page image](assets/readme-files/desktop-book-now.png) | ![Mobile book now page image](assets/readme-files/mobile-book-now.png)
-404 Error | ![Desktop 404 error page image](assets/readme-files/desktop-404.png) | ![Mobile 404 error page image](assets/readme-files/mobile-404.png)
-
-[Back to top ⇧](#first-class)
 
 
 ## Deployment
@@ -381,24 +363,6 @@ Book Now | ![Desktop book now page image](assets/readme-files/desktop-book-now.p
 
 - All content was written by the developer.
 
-### Media
-
-* [Pexels](https://www.pexels.com/)
-
-    - Main image: "Waterfalls in the Middle of Green Trees" by Austin Tsai.
-    - 404 Error Page image: Taken by Artem Beliaikin.
-
-* [Unsplash](https://unsplash.com/)
-
-    - About Us image: "Pristine water lily" by Jay Castor.
-    - Massage image: "Beautiful Woman Getting Stones Massage in Spa Salon" by Engin Akyurt.
-    - Facial image: Taken by Raphael Lovaski.
-    - Pedicure image: "Warm bath before treatment" by Rune Enstad.
-    - Book Now image: Taken by Firos Nv.
-
-### Code
-
-* [Stack Overflow](https://stackoverflow.com/) and [W3Schools](https://www.w3schools.com/) were consulted on a regular basis for inspiration and sometimes to be able to better understand the code being implement.
 
 [Back to top ⇧](#first-class)
 
