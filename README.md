@@ -137,7 +137,7 @@ COMPLETE
 
 
 * **Our Clients**
-![Treatment section image](assets/readme-files/treatment-section-example.png)
+![Our Clients image](assets/images/our-clientrs.png)
 
 -. The Our Clients page contains a range of images of successful clients in the first class community.
 
@@ -146,6 +146,7 @@ COMPLETE
 ### Sign Up Page
 
 * **Sign Up Form**
+  
 ![Book now form image](assets/readme-files/book-now-form.png)
 
     - The form allows the customer to sign up to the desired programme directly from the business' website.    
