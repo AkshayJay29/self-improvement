@@ -108,24 +108,27 @@ COMPLETE
     - The navigation bar is identical in all pages and contains links to all pages to facilitate navigation across the site. It also has a hover effect that changes color to provide feedback to the customer for a better user experience.
 
 ![Header image](assets/images/header.png)
+
 * **Footer**
-![Footer image](assets/readme-files/footer.png)
+
+![Footer image](assets/images/footer.png)
 
     - The footer includes a title of Follow Us to improve the user experience and make it more easy to understand for the user that the logos are links to the business' social media channels. 
 
-
-
 * **Main Image**
+
 ![Main image](assets/images/main-image.png)
 
     - The main image is designed to attract the customer's attention and represents the typical admirable characteristics of our clients.
 
 * **Why Join Us Section**
+  
 ![Why join us section image](assets/images/why-join-us.png)
 
     - Contains text with information about why the business is beneficial to customers as well as an eye-catching image.
     
 * **Session times Section**
+  
   ![Session times section image](assets/images/session-times.png)
   
 - Contains text with information about the timings and location for each section
@@ -136,7 +139,7 @@ COMPLETE
 * **Our Clients**
 ![Treatment section image](assets/readme-files/treatment-section-example.png)
 
--. The treatment section contains a range of images of successful clients in the first class community.
+-. The Our Clients page contains a range of images of successful clients in the first class community.
 
 - Follow us links remain in the footer of this page to ensure a smooth experience for the user and influence the user to support the business on social media.
 
