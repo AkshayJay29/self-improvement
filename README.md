@@ -121,18 +121,22 @@ COMPLETE IMAGES
 
 
 * **Main Image**
-![Main image](assets/images/main image.png)
+![Main image](assets/images/main-image.png)
 
     - The main image is designed to attract the customer's attention and represents the typical admirable characteristics of our clients.
 
-* **Why Join Us Section**r
-![Why join us section image](assets/readme-files/about-us.png)
+* **Why Join Us Section**
+![Why join us section image](assets/images/why-join-us.png)
 
     - Contains text with information about why the business is beneficial to customers as well as an eye-catching image.
+    
+* **Session times Section**
+  ![Session times section image](assets/images/session-times.png)
+  
+- Contains text with information about the timings and location for each section
+- Has a striking background color of grey: rgba(0, 0, 0, .6) to catch the user's attention and help persuade them to join the programme.
 
-* ** Session Times
-COMPLETE IMAGES FOR EACH SECTION
-### Treatments Page
+
 
 * **Our Clients**
 ![Treatment section image](assets/readme-files/treatment-section-example.png)
@@ -150,6 +154,8 @@ COMPLETE IMAGES FOR EACH SECTION
 
 - There is also a section on the page which plays a video of one of our clients training in order to give extra motivation for the customer to sign up to the programme. 
 
+* **Background video**
+  - Background video (of a client training) added into the sign up page to add extra motivation to convince the user to join the programme as they can see others working hard and pushing themselves in the programme.
 
 ### 404 Error Page
 ![404 error page image](assets/readme-files/404-error-page.png)
@@ -167,9 +173,6 @@ COMPLETE IMAGES FOR EACH SECTION
 
 ### Frameworks, Libraries and Programs Used
 
-* [Google Fonts](https://fonts.google.com/)
-    - Google Fonts was used to import the fonts Raleway, Cabin and Qahiri into the style.css file. These fonts were used throughout the site.
-
 * [Font Awesome](https://fontawesome.com/)
      - Font Awesome was used throughout all pages to add icons in order to create a better visual experience for UX purposes.
 
@@ -182,8 +185,6 @@ COMPLETE IMAGES FOR EACH SECTION
 * [GitHub](https://github.com/)
      - GitHub was used to store the project after pushing.
 
-* [Balsamiq](https://balsamiq.com/)
-     - Balsamiq was used to create the wireframes during the design phase of the project.
 
 * [Am I Responsive?](http://ami.responsivedesign.is/#)
     - Am I Responsive was used in order to see responsive design throughout the process and to generate mockup imagery to be used.
@@ -191,8 +192,6 @@ COMPLETE IMAGES FOR EACH SECTION
 * [Responsive Design Checker](https://www.responsivedesignchecker.com/)
     - Responsive Design Checker was used in the testing process to check responsiveness on various devices.
 
-* [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
-    - Chrome DevTools was used during development process for code review and to test responsiveness.
 
 * [W3C Markup Validator](https://validator.w3.org/)
     - W3C Markup Validator was used to validate the HTML code.
@@ -241,41 +240,13 @@ COMPLETE IMAGES FOR EACH SECTION
 
     -  W3C CSS Validator found no errors or warnings on my CSS.
 
-### Accessibility
-
-* Used Lighthouse in Chrome DevTools to confirm that the colors and fonts being used in throughout the website are easy to read and accessible.
-
-* Lighthouse reports
-
-    - **Landing Page**
-
-    ![Lighthouse report for landing page image](assets/readme-files/lighthouse-report-index.png)
-
-    - **Treatments Page**
-
-    ![Lighthouse report for treatmenst page image](assets/readme-files/lighthouse-report-treatments.png)
-
-    - **Book Now Page**
-
-    ![Lighthouse report for book now page image](assets/readme-files/lighthouse-report-book-now.png)
-
-    - **404 Error Page**
-
-    ![Lighthouse report for book now page image](assets/readme-files/lighthouse-report-book-now.png)
-
 ### Tools Testing
 
 * [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 
     - Chrome DevTools was used during the development process to test, explore and modify HTML elements and CSS styles used in the project.
 
-* Responsiveness
-    
-    - [Am I Responsive?](http://ami.responsivedesign.is/#) was used to check responsiveness of the site pages across different devices.
 
-    - [Responsive Design Checker](https://www.responsivedesignchecker.com/) was used to check responsiveness of the site pages on different screen sizes.
-    
-    - Chrome DevTools was used to test responsiveness in different screen sizes during the development process.
 
 ### Manual Testing
 
@@ -283,7 +254,7 @@ COMPLETE IMAGES FOR EACH SECTION
 
     - The website has been tested on the following browsers:
 
-        - **Goolgle Chrome**
+        - **Google Chrome**
         
         No appearance, responsiveness nor functionality issues.
 
@@ -291,11 +262,6 @@ COMPLETE IMAGES FOR EACH SECTION
         
         No appearance, responsiveness nor functionality issues.
 
-        - **Mozilla Firefox**
-        
-        There was and issue with the appearance of the book buttons on the treatments page expanding all the width. This issue was corrected by changing the width property value from "fit-content" to "max-content".
-        
-        No responsiveness nor functionality issues.
 
         - **Microsoft Edge**
         
@@ -371,7 +337,7 @@ COMPLETE IMAGES FOR EACH SECTION
 
         - Clicking on the homepage link will bring the customer back to the landing page.
 
-[Back to top ⇧](#pura-vida-spa)
+[Back to top ⇧](#first-class)
 
 
 ## Finished Product
@@ -383,7 +349,7 @@ Treatments | ![Desktop treatments page image](assets/readme-files/desktop-treatm
 Book Now | ![Desktop book now page image](assets/readme-files/desktop-book-now.png) | ![Mobile book now page image](assets/readme-files/mobile-book-now.png)
 404 Error | ![Desktop 404 error page image](assets/readme-files/desktop-404.png) | ![Mobile 404 error page image](assets/readme-files/mobile-404.png)
 
-[Back to top ⇧](#pura-vida-spa)
+[Back to top ⇧](#first-class)
 
 
 ## Deployment
@@ -406,7 +372,7 @@ Book Now | ![Desktop book now page image](assets/readme-files/desktop-book-now.p
 
     5. The page will refresh automatically and generate a link to your website.
 
-[Back to top ⇧](#pura-vida-spa)
+[Back to top ⇧](#first-class)
 
 
 ## Credits 
@@ -434,7 +400,7 @@ Book Now | ![Desktop book now page image](assets/readme-files/desktop-book-now.p
 
 * [Stack Overflow](https://stackoverflow.com/) and [W3Schools](https://www.w3schools.com/) were consulted on a regular basis for inspiration and sometimes to be able to better understand the code being implement.
 
-[Back to top ⇧](#pura-vida-spa)
+[Back to top ⇧](#first-class)
 
 
 ## Acknowledgement
@@ -447,4 +413,4 @@ Book Now | ![Desktop book now page image](assets/readme-files/desktop-book-now.p
 
 * Student Care team, for being supportive, and providing consistent feedback, over the very unfortunate circumstance I faced during the completion of this project. 
 
-[Back to top ⇧](#pura-vida-spa)
+[Back to top ⇧](#first-class)
