@@ -15,7 +15,7 @@ Visit the deployed website [here] https://akshayjay29.github.io/self-improvement
 1. [User Experience (UX)](#user-experience-ux)
     1. [Project Goals](#project-goals)
     2. [User Stories](#user-stories)
-    3. [Color Schemes](#color-schemes)
+    3. [Color Scheme](#color-scheme)
     4. [Typography](#typography)
 2. [Features](#features)
     1. [General](#general)
@@ -70,7 +70,8 @@ Visit the deployed website [here] https://akshayjay29.github.io/self-improvement
 * As a customer, I want to easily find the business' location.
 
 ### Color Scheme
-The colors used in the site are two different tones of black #3a3a3a for the text in the headers and #252525 for the text in the body and rgba(0, 0, 0, 0.792) for the nav bar) different tones of grey: rgba(0, 0, 0, .6) for the background of the header and  #e6e6e6 for the shadow effect of the circle cover image. These colors are chosen to represent the boldness of our clients and are used to portray a sense of sophistication and sharpness.
+
+* The colors used in the site are two different tones of black #3a3a3a for the text in the headers and #252525 for the text in the body and rgba(0, 0, 0, 0.792) for the nav bar) different tones of grey: rgba(0, 0, 0, .6) for the background of the header and  #e6e6e6 for the shadow effect of the circle cover image. These colors are chosen to represent the boldness of our clients and are used to portray a sense of sophistication and sharpness.
 
 
 ### Typography
