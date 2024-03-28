@@ -105,6 +105,8 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
     - The footer includes a title of Follow Us to improve the user experience and make it more easy to understand for the user that the logos are links to the business' social media channels. 
 
+### Landing Page
+
 * **Main Image**
 
 
@@ -127,10 +129,10 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
 
 
-* **Our Clients**
+### Our Clients Page
 ![Our Clients image](assets/images/clients.png)
 
--. The Our Clients page contains a range of images of successful clients in the first class community.
+- The Our Clients page contains a range of images of successful clients in the first class community.
 
 - Follow us links remain in the footer of this page to ensure a smooth experience for the user and influence the user to support the business on social media.
 
