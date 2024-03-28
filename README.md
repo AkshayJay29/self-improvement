@@ -22,7 +22,6 @@ Visit the deployed website [here] https://akshayjay29.github.io/self-improvement
     2. [Landing Page](#landing-page)
     3. [Our Clients Page](#our-clients-page)
     4. [Sign Up Page](#sign-up-page)
-    5. [404 Error Page](#404-error-page)
  3. [Technologies Used](#technologies-used)
     1. [Languages Used](#languages-used)
     2. [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
