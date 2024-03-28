@@ -22,7 +22,7 @@ Visit the deployed website [here] https://akshayjay29.github.io/self-improvement
     2. [Landing Page](#landing-page)
     3. [Our Clients Page](#our-clients-page)
     4. [Sign Up Page](#sign-up-page)
- 3. [Technologies Used](#technologies-used)
+3. [Technologies Used](#technologies-used)
     1. [Languages Used](#languages-used)
     2. [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
 4. [Testing](#testing)
@@ -30,14 +30,13 @@ Visit the deployed website [here] https://akshayjay29.github.io/self-improvement
     2.  [Code Validation](#code-validation)
     3. [Tools Testing](#tools-testing)
     4. [Manual Testing](#manual-testing)
-5. [Finished Product](#finished-product)
-6. [Deployment](#deployment)
+5. [Deployment](#deployment)
     1. [GitHub Pages](#github-pages)
-7. [Credits](#credits)
+6. [Credits](#credits)
     1. [Content](#content)
     2. [Media](#media)
     3. [Code](#code)
-8. [Acknowledgements](#acknowledgements)
+7. [Acknowledgements](#acknowledgements)
 
 ***
 
