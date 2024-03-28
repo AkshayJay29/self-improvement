@@ -344,6 +344,7 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
 
 
+## Credits
 
 ### Content
 
