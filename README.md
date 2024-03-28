@@ -15,8 +15,7 @@ Visit the deployed website [here] https://akshayjay29.github.io/self-improvement
 1. [User Experience (UX)](#user-experience-ux)
     1. [Project Goals](#project-goals)
     2. [User Stories](#user-stories)
-    3. [Color Scheme](#color-scheme)
-    4. [Typography](#typography)
+    3. [Typography](#typography)
 2. [Features](#features)
     1. [General](#general)
     2. [Landing Page](#landing-page)
@@ -70,23 +69,12 @@ Visit the deployed website [here] https://akshayjay29.github.io/self-improvement
 * As a customer, I want to easily find the business' location.
 
 ### Color Scheme
-![Color scheme image](assets/readme-files/color-scheme.png)
-
 The colors used in the site are two different tones of black #3a3a3a for the text in the headers and #252525 for the text in the body and rgba(0, 0, 0, 0.792) for the nav bar) different tones of grey: rgba(0, 0, 0, .6) for the background of the header and  #e6e6e6 for the shadow effect of the circle cover image. These colors are chosen to represent the boldness of our clients and are used to portray a sense of sophistication and sharpness.
 
 
 ### Typography
 
 The main font used in the site is Lato, with Sans Serif as the fallback font in case Lato is not being imported correctly. Oswald is used for the headings with Sans Serif as the fallback. 
-
-
-
-
-
-
-
-
-COMPLETE
 
 [Back to top ⇧](#first-class)
 
@@ -124,13 +112,13 @@ COMPLETE
 
 * **Why Join Us Section**
   
-![Why join us section image](assets/images/why-join-us.png)
+![Why join us section image](assets/images/whyjoinus.png)
 
     - Contains text with information about why the business is beneficial to customers as well as an eye-catching image.
     
 * **Session times Section**
   
-  ![Session times section image](assets/images/session-times.png)
+  ![Session times section image](assets/images/session.png)
   
 - Contains text with information about the timings and location for each section
 - Has a striking background color of grey: rgba(0, 0, 0, .6) to catch the user's attention and help persuade them to join the programme.
@@ -138,7 +126,7 @@ COMPLETE
 
 
 * **Our Clients**
-![Our Clients image](assets/images/our-clients.png)
+![Our Clients image](assets/images/clients.png)
 
 -. The Our Clients page contains a range of images of successful clients in the first class community.
 
@@ -148,12 +136,15 @@ COMPLETE
 
 * **Sign Up Form**
   
-![Book now form image](assets/images/sign up.png)
+![Sign up form image](assets/images/clients.png)
 
     - The form allows the customer to sign up to the desired programme directly from the business' website.    
 
-- There is also a section on the page which plays a video of one of our clients training in order to give extra motivation for the customer to sign up to the programme. 
+- There is also a section on the page which plays a video of one of our clients training in order to give extra motivation for the customer to sign up to the programme.
 
+- All the input elements within the sign up form have a required attribute to make the customer experience more straight forward.
+
+  
 * **Background video**
   - Background video (of a client training) added into the sign up page to add extra motivation to convince the user to join the programme as they can see others working hard and pushing themselves in the programme.
 
@@ -194,7 +185,7 @@ COMPLETE
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
     - W3C CSS Validator was used to validate the CSS code.
 
-[Back to top ⇧](#pura-vida-spa)
+[Back to top ⇧](#first-class)
 
 
 ## Testing
@@ -322,13 +313,7 @@ COMPLETE
      
         - The hover effect on each section of the sign up form will help the customer navigate their way through the form. 
 
-    - 404 Error Page
-
-        - Entering an incorrect address into the address bar will bring the customer back to the 404 error page.
-
-        - Hovering on the homepage link will trigger hover effect, increasing the font size of the link's text.
-
-        - Clicking on the homepage link will bring the customer back to the landing page.
+    
 
 [Back to top ⇧](#first-class)
 
@@ -357,7 +342,7 @@ COMPLETE
 [Back to top ⇧](#first-class)
 
 
-## Credits 
+
 
 ### Content
 
