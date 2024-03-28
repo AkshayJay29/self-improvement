@@ -117,7 +117,8 @@ COMPLETE
 
 * **Main Image**
 
-![Main image](assets/images/main-image.png)
+
+![Main image](assets/images/mainimage.png)
 
     - The main image is designed to attract the customer's attention and represents the typical admirable characteristics of our clients.
 
