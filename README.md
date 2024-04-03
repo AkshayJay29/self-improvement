@@ -352,7 +352,7 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 [Back to top ⇧](#first-class)
 
 
-## Acknowledgement
+## Acknowledgements
 
 * My family, for their constructive opinions and critics during the design and development process. 
 
