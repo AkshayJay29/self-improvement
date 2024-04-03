@@ -34,8 +34,6 @@ Visit the deployed website [here] https://akshayjay29.github.io/self-improvement
     1. [GitHub Pages](#github-pages)
 6. [Credits](#credits)
     1. [Content](#content)
-    2. [Media](#media)
-    3. [Code](#code)
 7. [Acknowledgements](#acknowledgements)
 
 ***
