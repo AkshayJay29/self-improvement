@@ -330,8 +330,6 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
     2. At the top of the Repository, locate the Settings button on the menu.
 
-        - Alternatively click [here](https://raw.githubusercontent.com/) for a GIF demostration of the process.
-
     3. Scroll down the Settings page until you locate the Pages section.
 
     4. Under Source, click the dropdown called None and select Master Branch.
